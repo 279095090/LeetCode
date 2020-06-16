@@ -1,0 +1,4 @@
+interface ISubject
+{
+    void Run();
+}
